@@ -1,0 +1,32 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  border-radius: 8px;
+  padding: 24px;
+  max-width: 408px;
+
+  background: rgb(255 255 255);
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.field-label {
+  display: block;
+
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: rgb(46 47 66);
+}
+
+.btn-submit {
+  align-self: flex-start;
+  margin-top: 8px;
+}
+
+
+
+

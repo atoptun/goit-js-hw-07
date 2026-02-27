@@ -1,0 +1,23 @@
+.container {
+  max-width: 408px;
+  padding: 24px;
+  border-radius: 8px;
+
+  background-color: rgb(255 255 255);
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
+.output {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33;
+  letter-spacing: 0.04em;
+  color: rgb(46 47 66);
+
+  margin-top: 16px;
+}
